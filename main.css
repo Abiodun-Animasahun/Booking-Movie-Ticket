@@ -72,3 +72,11 @@ input[type="text"] {
   font-weight: 300;
   font-size: 12px;
 }
+.task-list {
+  font-size: 12px;
+}
+
+p {
+  display: flex;
+  gap: 15px;
+}
